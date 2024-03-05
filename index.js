@@ -1,2 +1,2 @@
-let matriz = new Array(1, 2, 3, 'a', 'b', 'c')
-matriz.fill(0) // Se llena el array con ceros
+let texto = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat"
+let lorem = texto.slice(0, 5)
