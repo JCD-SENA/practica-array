@@ -50,3 +50,6 @@ function generarTablas (matriz) {
 console.log(generarTablas([1, 5, 10]))
 
 console.log(matriz3.length)
+
+unicos.push(7)
+console.log(unicos)
