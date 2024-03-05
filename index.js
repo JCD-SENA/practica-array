@@ -62,3 +62,6 @@ console.log(unicos)
 
 unicos.shift()
 console.log(unicos)
+
+let PrimerasLetras = lorem.slice(0, 3)
+console.log(PrimerasLetras)
