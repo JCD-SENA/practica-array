@@ -1,2 +1,6 @@
-let texto = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat"
-let lorem = texto.slice(0, 5)
+/*
+Reconozco que desconocia al respecto de estos operadores
+*/
+let numeros1 =  [1,  2,  3 ]
+let numeros10 = [10, 20, 30]
+let numeros = [...numeros1, ...numeros10]
