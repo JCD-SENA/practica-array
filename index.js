@@ -56,3 +56,6 @@ console.log(unicos)
 
 unicos.pop()
 console.log(unicos)
+
+unicos.unshift(0)
+console.log(unicos)
