@@ -65,3 +65,6 @@ console.log(unicos)
 
 let PrimerasLetras = lorem.slice(0, 3)
 console.log(PrimerasLetras)
+
+unicos.sort()
+console.log(unicos.join(", "))
