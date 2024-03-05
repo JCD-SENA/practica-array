@@ -1,1 +1,1 @@
-let matriz = [1, 2, 3]
+let matriz = [1, 2, 3, 'a', 'b', 'c']
