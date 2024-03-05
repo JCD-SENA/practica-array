@@ -1,1 +1,1 @@
-let matriz = []
+let matriz = [1, 2, 3]
