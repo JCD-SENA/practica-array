@@ -1,6 +1,2 @@
-/*
-Reconozco que desconocia al respecto de estos operadores
-*/
-let numeros1 =  [1,  2,  3 ]
-let numeros10 = [10, 20, 30]
-let numeros = [...numeros1, ...numeros10]
+let matriz = [1,3,4,6,4,3,5,4,3,2]
+let unicos = [...new Set(matriz)]
