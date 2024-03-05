@@ -53,3 +53,6 @@ console.log(matriz3.length)
 
 unicos.push(7)
 console.log(unicos)
+
+unicos.pop()
+console.log(unicos)
