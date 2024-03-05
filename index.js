@@ -1,2 +1,4 @@
-let texto = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat"
-let lorem = texto.slice(0, 5)
+let matriz = new Array(1, 2, 3, 'a', 'b', 'c')
+let secuencia = Array.from(matriz, (a,e) => {
+    return e + 1
+})
