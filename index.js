@@ -1,1 +1,1 @@
-let matriz = [1, 2, 3, 'a', 'b', 'c']
+let matriz = new Array(1, 2, 3, 'a', 'b', 'c')
