@@ -74,3 +74,6 @@ console.log(ultimosNumeros)
 
 let mitadArray = unicos.slice(0, parseInt(unicos.length / 2))
 console.log(mitadArray)
+
+ultimosNumeros.unshift(...[1,2])
+console.log(ultimosNumeros)
