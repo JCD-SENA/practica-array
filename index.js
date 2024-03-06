@@ -68,3 +68,6 @@ console.log(PrimerasLetras)
 
 unicos.sort()
 console.log(unicos.join(", "))
+
+let ultimosNumeros = unicos.slice(-4,-1)
+console.log(ultimosNumeros)
