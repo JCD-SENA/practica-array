@@ -71,3 +71,6 @@ console.log(unicos.join(", "))
 
 let ultimosNumeros = unicos.slice(-4,-1)
 console.log(ultimosNumeros)
+
+let mitadArray = unicos.slice(0, parseInt(unicos.length / 2))
+console.log(mitadArray)
